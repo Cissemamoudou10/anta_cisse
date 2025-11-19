@@ -40,7 +40,7 @@ function MainLayout() {
     phone: "+223 76 61 75 16",
     companyLogo: companyLogo,
     photo: clientImg,
-    cvUrl: "https://digicard-card.github.io//#//",
+    cvUrl: "https://anta-cisse-e9fx.vercel.app/",
     email: "cisseanta623@gmail.com",
   };
 
