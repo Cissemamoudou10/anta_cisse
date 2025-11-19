@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { Route, Routes, useLocation } from "react-router-dom";
 import { motion, AnimatePresence } from "framer-motion";
 import Footer from "./Footer";
-import Topbar from "./TopBar";
+import Topbar from "./Topbar";
 import Home from "./Home";
 import CVPage from "./CVPage";
 import companyLogo from "../assets/companyLogo.jpg";
