@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #A992FF;
+  --color-secondary: #F3F3F5;
+  --color-text: #1A1A1A;
+  --color-accent: #5C33FF;
+  --color-highlight: #FFAB00;
+}
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Tu peux aussi définir les polices et autres variables CSS ici */
+body {
+  font-family: 'Inter', sans-serif;
+}
